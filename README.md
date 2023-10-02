@@ -55,4 +55,28 @@ What it will do is, it will create the entire database along with the records in
 
 ## Screenshots
 
+![Screenshot (139)](https://github.com/SIDDHARTH107/SQL_SalesInsights/assets/103374957/094202e7-8db0-4c2d-ad19-d54f6bdeb0fd)
 
+![Screenshot (140)](https://github.com/SIDDHARTH107/SQL_SalesInsights/assets/103374957/b0a5a2d7-7b9b-467e-8067-74ef567d907c)
+
+![Screenshot (141)](https://github.com/SIDDHARTH107/SQL_SalesInsights/assets/103374957/8d70e59d-97a5-4d29-8499-acb651e2f166)
+
+![Screenshot (142)](https://github.com/SIDDHARTH107/SQL_SalesInsights/assets/103374957/3add89d5-2f79-4e92-82a9-157b6cb31d89)
+
+![Screenshot (143)](https://github.com/SIDDHARTH107/SQL_SalesInsights/assets/103374957/ba940cad-63ee-48a9-97f0-6381ef1d6039)
+
+![Screenshot (144)](https://github.com/SIDDHARTH107/SQL_SalesInsights/assets/103374957/8a3cbcef-0a4c-4753-aaf9-dd05d59a8d5f)
+
+![Screenshot (145)](https://github.com/SIDDHARTH107/SQL_SalesInsights/assets/103374957/d3280f91-6301-42ab-b680-870b689ed3d9)
+
+![Screenshot (146)](https://github.com/SIDDHARTH107/SQL_SalesInsights/assets/103374957/50580d15-85b1-42cd-bd28-80757a6e17ab)
+
+![Screenshot (147)](https://github.com/SIDDHARTH107/SQL_SalesInsights/assets/103374957/67c3c38c-9a82-4449-98b9-5a801ed27c62)
+
+![Screenshot (148)](https://github.com/SIDDHARTH107/SQL_SalesInsights/assets/103374957/ba91cab6-adae-430e-9ae2-d679cb17019b)
+
+![Screenshot (149)](https://github.com/SIDDHARTH107/SQL_SalesInsights/assets/103374957/0539e922-97a6-49d5-b2b5-3e2c100a3a2c)
+
+![Screenshot (150)](https://github.com/SIDDHARTH107/SQL_SalesInsights/assets/103374957/bc708cc4-067f-491c-9e21-e5854cc6459d)
+
+![Screenshot (151)](https://github.com/SIDDHARTH107/SQL_SalesInsights/assets/103374957/44e2820d-0756-419c-9463-eab9d31f8b93)
