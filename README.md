@@ -51,8 +51,7 @@ What it will do is, it will create the entire database along with the records in
 ## Challenges Faced:
 - While connecting the SQL database with Power BI, I faced the "This connector requires one or more additional components to be installed before it can be used"
 
-
- (152)](https://github.com/SIDDHARTH107/SQL_SalesInsights/assets/103374957/3356bd6a-3935-44c5-97e1-f5be4f7ebcbe)
+![Screenshot (152)](https://github.com/SIDDHARTH107/SQL_SalesInsights/assets/103374957/02cdf737-5ce7-4d1e-a0cc-57cad0c88f8d)
 
 ## Screenshots
 
